@@ -22,13 +22,18 @@ nav li a
 {
     background-color: aqua;
     height: 100px;
+    display: flex;
+    justify-content: center;
 }
 .nav_menu li 
 {
     padding: 25px;
 }
+.nav_menu a
+{
+    padding: 0 5px;
+}
 .nav_menu a:hover
 {
    background-color:lightcoral ;
-   padding: 3px;
 }
