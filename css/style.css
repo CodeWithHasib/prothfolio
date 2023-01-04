@@ -31,9 +31,24 @@ nav li a
 }
 .nav_menu a
 {
-    padding: 0 5px;
+    padding: 3px 40px;
+    border: 3px solid;
 }
 .nav_menu a:hover
 {
    background-color:lightcoral ;
+}
+.audio
+{
+    background-color: azure;
+    height: 60px;
+    width: 600px;
+    border: 6px solid;
+    margin-top: 60px;
+    margin-left: 260px;
+}
+.audio h1
+{
+    text-align: center;
+    padding-top:16px ;
 }
